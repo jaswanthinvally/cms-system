@@ -1,7 +1,13 @@
 export default function TeachersLogin () {
     return (
         <div>
-            welcome to the teacher login
+            <div>
+                <form>
+                    <label>register.no </label>
+                    <input placeholder="please enter your register no"/>
+                    
+                </form>
+            </div>
         </div>
     )
 }
